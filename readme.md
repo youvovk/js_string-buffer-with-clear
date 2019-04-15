@@ -1,4 +1,4 @@
-# Boilerplate for JS tasks
+# String buffer with clear
 
 **Read the guideline before start**
 
